@@ -133,7 +133,7 @@ export PATH=$PATH:$PWD
 # Add the export to ~/.bashrc to install globally
 echo "export PATH=\$PATH:$PWD" >> ~/.bashrc
 
-# If you're not using bash, you should know what you're doing.
+# If you're not using bash, you should already know what you're doing ;-)
 ```
 
 ## Contributing
